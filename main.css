@@ -20,7 +20,8 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url('assets/bgi.jpg')
+  background: url('assets/bgi.jpg');
+  background-color:#224894;
 }
 
 .head, .links {
