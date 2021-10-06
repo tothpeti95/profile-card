@@ -101,3 +101,9 @@ img:hover {
   letter-spacing: 2px;
   padding: 10px;
 }
+
+@media (max-width: 475px) and (max-height: 780px) {
+  body {
+    height: 150vh;
+  }
+}
